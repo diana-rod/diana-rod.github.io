@@ -1,3 +1,32 @@
 body {
-	background: url("assets/background.jpg");
+	background: url("assets/stripes.png"),
+	url("assets/background.jpg");
+	background-repeat: repeat-x, no-repeat;
+	font-family: helvetica; arial; sans-serif;
+	font-weight: 100px; 
+	color: white;
+}
+
+header {
+	width: 160px
+	heighth: 50px;
+	padding-bottom: 20px; 
+}
+
+p {
+	font-size: 22px;
+	line-height: 26px;
+}
+
+hr {
+	margin: 0px;
+	width: 100px;
+	height: 3px;
+	border: none;
+	background-color: #985067;
+}
+.wrapper {
+	margin-top: 200px;
+	margin-left: 150px;
+
 }
