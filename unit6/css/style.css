@@ -3,7 +3,7 @@ body {
 	background: url("../assets/parisianpioneerbackground.gif");
 	background-color: #ffffff;
 	background-size: cover; 
-	border-top-width: 150;
+	/*border-top-width: 150;*/
 	background-repeat: no-repeat;
 	/*max-height: 50;*/
 }
@@ -11,7 +11,7 @@ body {
 nav {
 	font-weight: 800;
 	font-family: 'Open Sans', sans-serif;
-	margin: 0 auto;
+	text-align: center;
 
 }
 
@@ -31,7 +31,9 @@ h1 {
 
 #logo {
 	margin: 0 auto;
-	margin-top: 25px;
+	width: 100%;
+	text-align: center;
 	background-color:#ffffff;
-	width: 750px;
+	padding-top: 35px;
+	padding-bottom: 10px;
 }
