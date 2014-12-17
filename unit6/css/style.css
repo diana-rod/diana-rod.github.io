@@ -10,6 +10,9 @@ body {
 
 nav {
 	font-weight: 800;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 auto;
+
 }
 
 section {
@@ -28,5 +31,7 @@ h1 {
 
 #logo {
 	margin: 0 auto;
+	margin-top: 25px;
+	background-color:#ffffff;
 	width: 750px;
 }
