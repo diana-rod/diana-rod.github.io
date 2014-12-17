@@ -3,6 +3,7 @@ body {
 	background: url("../assets/parisianpioneerbackground.gif");
 	background-color: #ffffff;
 	background-size: cover; 
+	border-top-width: 150;
 	background-repeat: no-repeat;
 	/*max-height: 50;*/
 }
