@@ -1,6 +1,6 @@
 body {
 	font-size: 16px;
-	background: url("../assets/parisianpioneerbackground.gif");
+	background: url("../assets/paris-bg.jpg");
 	background-color: #ffffff;
 	background-size: cover; 
 	background-repeat: no-repeat;
@@ -25,13 +25,13 @@ li {
 
 }
 
-section {
+/*section {
 	width: 500px;
 	background: #000000;
 	padding: 20px;
 	margin: 0 auto;
 	height: 200px;
-}
+}*/
 
 h1 {
 	font-size: 16px;
