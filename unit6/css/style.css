@@ -3,28 +3,34 @@ body {
 	background: url("../assets/parisianpioneerbackground.gif");
 	background-color: #ffffff;
 	background-size: cover; 
-	/*border-top-width: 150;*/
 	background-repeat: no-repeat;
-	/*max-height: 50;*/
 }
 
 nav {
 	font-weight: 800;
 	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
 	text-align: center;
+	padding: 25px;
+}
+
+li {
+	padding: 5;
+	float: center;
+	list-style-type: none;
 
 }
 
 section {
 	width: 500px;
 	background: #000000;
-	padding: 40px;
+	padding: 20px;
 	margin: 0 auto;
 	height: 200px;
 }
 
 h1 {
-	font-size: 24px;
+	font-size: 16px;
 	color: #ffffff;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -35,4 +41,5 @@ h1 {
 	text-align: center;
 	background-color:#ffffff;
 	padding-top: 20px;
+	padding-bottom: 10px;
 }
