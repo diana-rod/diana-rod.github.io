@@ -1,9 +1,11 @@
 body {
 	font-size: 16px;
 	background-color: #ffffff;
-	background-image: url("../assets/paris-bg.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-image: url("../assets/paris-bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 nav {
