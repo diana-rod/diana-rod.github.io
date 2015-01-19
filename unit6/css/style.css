@@ -28,13 +28,13 @@ section {
 	margin: 0 auto;
 	margin-top: 40px;
 	height: 100px;
-	color: #000000;
+	background-color: #000000;
 
 }
 
 h1 {
 	font-size: 24px;
-	color: #000000;
+	color: #ffffff;
 	font-family: 'Libre Baskerville', serif;
 	line-height: 28px;
 	font-size: 22px;
@@ -50,8 +50,9 @@ footer {
 	font-size:14px;
 	font-family:'Libre Baskerville', serif;
 }
-h3 {
+h2 {
 	margin: 0 auto;
+	color: #ffffff;
 }
 
 .social {
@@ -84,7 +85,7 @@ a {
 
 #logo {
 	margin: 0 auto;
-	width: 525px;
+	width: 50%;
 	text-align: center;
 	background-color:#ffffff;
 	padding-top: 10px;
@@ -94,4 +95,8 @@ a {
 	padding: 20px;
 	margin: auto;
 	text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+
 }
