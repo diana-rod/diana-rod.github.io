@@ -112,11 +112,13 @@ a {
 }
 
 @media only screen and (max-width: 480px) {
-#logo {backround: url("../assets/pp-logo-vertical-01.png");
+#logo {background: url("../assets/pp-logo-vertical-01.png");
+width: 100%;
 }
 #nav {
 	float: none;
 	width: auto;
+	background-color: #000000;
 }
 #section {
 	width: 100%;
