@@ -30,7 +30,7 @@ section {
 	margin: 20 auto 150px;
 	height: 50%;
 	background-color: #000000;
-
+	text-align: center;
 }
 
 h1 {
@@ -136,10 +136,11 @@ header {
 	background-color: #000000;
 }
 #section {
-	width: 100%;
+	width: 98%;
 	margin: 0 auto;
 	height: 70%;
 	padding: 3%;
+	text-align: center;
 }
 #footer {
 	margin: 0;
