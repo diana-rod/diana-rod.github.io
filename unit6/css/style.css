@@ -1,5 +1,5 @@
 body {
-	font-size: 16px;
+	font-size: 14px;
 	background-color: #ffffff;
 	background: url("../assets/paris-bg.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -26,8 +26,8 @@ li {
 
 section {
 	width: 28%;
-	padding: 2%;
-	margin: 3% 33% 11%;
+	padding: 1.5%;
+	margin: 2% 33% 11% 34%;
 	height: 50%;
 	background-color: #000000;
 	text-align: left;
@@ -139,7 +139,7 @@ header {
 	width: 98%;
 	margin: 0 auto;
 	height: 70%;
-	padding: 3%;
+	padding: 0%;
 	text-align: left;
 }
 #footer {
