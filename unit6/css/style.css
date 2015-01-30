@@ -135,12 +135,13 @@ header {
 	width: auto;
 	background-color: #000000;
 }
-#section {
+section {
 	width: 98%;
 	margin: 0 auto;
 	height: 70%;
-	padding: 3%;
+	padding: 5%;
 	text-align: left;
+	font:1.5em;
 }
 
 #footer {
